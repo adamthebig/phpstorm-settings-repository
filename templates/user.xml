@@ -29,4 +29,64 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="social" value="&lt;!-- Facebook --&gt;&#10;&lt;meta property=&quot;og:title&quot; content=&quot;&quot;&gt;&#10;&lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;&#10;&lt;meta property=&quot;og:description&quot; content=&quot;&quot;&gt;&#10;&lt;meta property=&quot;og:image&quot; content=&quot;&quot;&gt;&#10;&lt;meta property=&quot;og:url&quot; content=&quot;&quot;&gt;&#10;&lt;meta property=&quot;og:site_name&quot; content=&quot;&quot;&gt;&#10;&lt;meta property=&quot;fb:admins&quot; content=&quot;&quot;&gt;&#10;&lt;meta property=&quot;fb:app_id&quot; content=&quot;&quot;&gt;&#10;&#10;&lt;!-- Twitter --&gt;&#10;&lt;meta name=&quot;twitter:site&quot; content=&quot;&quot;&gt;&#10;&lt;meta name=&quot;twitter:url&quot; content=&quot;&quot;&gt;&#10;&lt;meta name=&quot;twitter:description&quot; content=&quot;&quot;&gt;&#10;&lt;meta name=&quot;twitter:image&quot; content=&quot;&quot;&gt;&#10;&lt;meta name=&quot;twitter:title&quot; content=&quot;&quot;&gt;&#10;&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot;&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="Bash" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="html" value="&lt;!doctype html&gt;&#10;&lt;html id=&quot;frunt&quot; lang=&quot;en&quot;&gt;&#10;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&#10;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1, maximum-scale=1&quot;&gt;&#10;&#10;    &lt;!-- DNS prefetching (Useful for Amazon S3 and Rackspace Files --&gt;&#10;    &lt;link rel=&quot;dns-prefetch&quot; href=&quot;&quot;&gt;&#10;&#10;    &lt;!-- Canonical URL --&gt;&#10;    &lt;link rel=&quot;canonical&quot; href=&quot;&quot;&gt;&#10;&#10;    &lt;title&gt;&lt;/title&gt;&#10;    &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;&#10;&#10;    &lt;link rel=&quot;shortcut icon&quot; href=&quot;favicon.png&quot;&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot;&gt;&#10;&#10;    &lt;!--[if lt IE 9]&gt;&#10;    &lt;script src=&quot;/assets/vendor/js/html5shiv.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;/assets/vendor/js/respond.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;![endif]--&gt;&#10;&lt;/head&gt;&#10;&#10;&lt;body&gt;&#10;&#10;$END$&#10;&#10;&lt;!-- Javascripts --&gt;&#10;&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js&quot;&gt;&lt;/script&gt;&#10;&lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/assets/js/vendor/jquery-1.11.3.min.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;&#10;&lt;script src=&quot;/assets/js/vendor.js&quot;&gt;&lt;/script&gt;&#10;&lt;script src=&quot;/assets/js/bundle.js&quot;&gt;&lt;/script&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="Bash" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
