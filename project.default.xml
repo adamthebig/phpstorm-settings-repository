@@ -61,6 +61,11 @@
                 <id>XSLT</id>
               </State>
             </expanded-state>
+            <selected-state>
+              <State>
+                <id>BashSupport</id>
+              </State>
+            </selected-state>
           </profile-state>
         </entry>
       </component>
